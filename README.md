@@ -12,20 +12,21 @@
 - 오렐리앙 제롱, 박해선(한빛 미디어)  
   [교재 사이트](https://product.kyobobook.co.kr/detail/S000208981368)  
   [교재 정오표](https://tensorflow.blog/handson-ml3/)  
-  [필독!!! 교재 소스 코드](https://github.com/rickiepark/handson-ml3)
+  [필독!!! 교재 소스 코드](https://github.com/rickiepark/handson-ml3)  
   [UCI_MACHINE(데이터 사이트)](https://archive.ics.uci.edu/)
   <details>
   <summary>
     그 외의 관련 사이트
   </summary>
-    [머신 러닝이 적용되는 사례](https://en.wikipedia.org/wiki/Machine_learning#Applications)
-    [learnpython.org](https://learnpython.org/)
-    [pandas.org](https://pandas.pydata.org/docs/)
-    [numpy.org](https://numpy.org/doc/stable/)
-    [matplotlib.org](https://matplotlib.org/stable/users/index)
-    [머신러닝강좌(앤드루 응)](https://www.coursera.org/learn/machine-learning/)
-    [사이킷런 사용자 가이드](https://scikit-learn.org/stable/user_guide.html)
-    [Quora-머신러닝 블로그](https://quora.com/What-are-the-best-artificial-intelligence-blogs-newsletters)
+
+  [머신 러닝이 적용되는 사례](https://en.wikipedia.org/wiki/Machine_learning#Applications)  
+   [learnpython.org](https://learnpython.org/)  
+  [pandas.org](https://pandas.pydata.org/docs/)  
+  [numpy.org](https://numpy.org/doc/stable/)  
+  [matplotlib.org](https://matplotlib.org/stable/users/index)  
+  [머신러닝강좌(앤드루 응)](https://www.coursera.org/learn/machine-learning/)  
+  [사이킷런 사용자 가이드](https://scikit-learn.org/stable/user_guide.html)  
+  [Quora-머신러닝 블로그](https://quora.com/What-are-the-best-artificial-intelligence-blogs-newsletters)
 
 </details>
 
