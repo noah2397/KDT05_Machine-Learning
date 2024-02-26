@@ -61,6 +61,11 @@
 | 23.02.25  |  KNeighborClassifier, K-NN, kneighbors | [Naver Blog](https://blog.naver.com/mathnoah/223364565653)         | DAY01/ex_find_fish.ipynb|
 | 23.02.25  | 지도학습 분류 모델(1) : K-NN, K-neighbor  | [Naver Blog](https://blog.naver.com/mathnoah/223364567676)         | DAY01/review.ipynb  |
 | 23.02.25  | K-NN : iris 데이터 분류 적용  | [Naver Blog](https://blog.naver.com/mathnoah/223364568845)         | DAY01/HW_01_명노아.ipynb  |
+| 23.02.26  |KNN(복습) | [Naver Blog](https://blog.naver.com/mathnoah/223365314255)  | DAY02/01_find_fish_knn.ipynb  |
+| 23.02.26  |샘플링(판다스, 사이킷런) : pandas.DataFrame.sample, sklearn.model_selection.train_test_split | [Naver Blog](https://blog.naver.com/mathnoah/223365376406)  | DAY02/01_find_fish_knn.ipynb  |
+| 23.02.26  | 데이터 정규화의 필요성(sklearn, 모형의 오분류)| [Naver Blog](https://blog.naver.com/mathnoah/223365548990)  | DAY02/03_find_fish_normalization.ipynb  |
+| 23.02.26  | 데이터 전처리 : StandardScalar, transform , sklearn.svm.SVC| [Naver Blog](https://blog.naver.com/mathnoah/223365678380)  | DAY02/04_fish_sklearn.ipynb  |
+| 23.02.26  |튜닝(Tunning) | [Naver Blog](https://blog.naver.com/mathnoah/223365773861)  | DAY02/05_fish_Tunning.ipynb  |
 
 ### 목차
 
