@@ -57,8 +57,10 @@
    
 |날짜(Date) | 제목 | 네이버 블로그 | 관련 디렉토리 |
 | --------  | ---  | -----------| ------------|
-| 23.02.23  |  머신러닝 가상환경 설정, 클래스 복습 | [Naver Blog](https://blog.naver.com/mathnoah)         | DAY01/check_pk, ex_class, ex_class_02  |
-| 23.02.23  |   | [Naver Blog]()         |   |
+| 23.02.23  |  머신러닝 가상환경 설정, 클래스 복습 | [Naver Blog](https://blog.naver.com/mathnoah/223362791122)         | DAY01/check_pk, ex_class, ex_class_02  |
+| 23.02.25  |  KNeighborClassifier, K-NN, kneighbors | [Naver Blog](https://blog.naver.com/mathnoah/223364565653)         | DAY01/ex_find_fish.ipynb|
+| 23.02.25  | 지도학습 분류 모델(1) : K-NN, K-neighbor  | [Naver Blog](https://blog.naver.com/mathnoah/223364567676)         | DAY01/review.ipynb  |
+| 23.02.25  | K-NN : iris 데이터 분류 적용  | [Naver Blog](https://blog.naver.com/mathnoah/223364568845)         | DAY01/HW_01_명노아.ipynb  |
 
 ### 목차
 
