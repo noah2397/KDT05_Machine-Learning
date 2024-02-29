@@ -1,1 +1,31 @@
-plt.gird(alpha=0.35)
+plt.grid(alpha=0.35)
+
+어느 정도로 분포가 되어 있는지 확인 
+어느 정도의 비율인지 확인 -> value_counts -> ★★★★범주형으로 분류해라!★★★★ 
+
+전처리 문제이다 :  
+
+
++ 이상치 처리 1. -> scipy.zscore 사용
++ 이상치 처리 2. -> 제거
+
+sklearn.imputer
+
+판다스 cut 배우기
+pandas.cut()
+pandas.qcut()
+KBinsDiscretizer
+pandas.get_dummies()
+OneHotEncoder
+OridinalEncoder
+LabelEncoder
+
+언더샘플링(Under Sampling) : 다수 클래스 데이터를 줄여서 비율을 맞춤
+- 정보 손실 발생
+
+업샘플링(Up Sampling) : 소수 클래스 샘플 증폭시켜 비율 맞춤
+-언더 샘플링보다 분류 정확도가 높다
+-과적합 가능성이 있다
+-계산 시간이 오래 걸림
+
+y=W(weignt)*x + B(bias)

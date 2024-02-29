@@ -1,0 +1,38 @@
+plt.subplot(2,5,n) 
+df.isnull().sum()
+
+sns.hisplot(df['target'], binwidth=10, kde=True, stat='density')
+import itertools import combinations
+for data in combinations(df.columns,-2)
+sns.heatmap(df.corr(), annot=True, cmap='RdBu')
+===================================================================
+modelList = [ # 모든 regressor
+    RandomForestRegressor(),
+    DecisionTreeRegressor(),
+    AdaBoostRegressor(),
+    GaussianProcessRegressor(),
+    SVR,
+    KNeighborsRegressor,
+    LinearRegression,
+    ElasticNet,
+    BayesianRidge,
+    # PassiveAggressiveRegressor,
+    TheilSenRegressor,
+    # RANSACRegressor,
+    HuberRegressor,
+    GradientBoostingRegressor,
+    BaggingRegressor,
+    ExtraTreesRegressor,
+    # StackingRegressor,
+    # VotingRegressor,
+    HistGradientBoostingRegressor,
+    LassoCV,
+    OrthogonalMatchingPursuit,
+    ARDRegression,
+]
+for model in modelList:
+    modelActive = model()
+    modelActive.fit(X_train, y_train)
+====================================================================
+QuantileTransformer 사용
+Robust가 높다 
