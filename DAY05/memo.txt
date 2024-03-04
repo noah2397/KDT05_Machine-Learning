@@ -1,0 +1,4 @@
+pd.to_numeric(df[..], errors="coerce")
+to_numeric : https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
+파이프라인(교재 p120) : https://scikit-learn.org/stable/modules/classes.html#module-sklearn.pipeline
+
