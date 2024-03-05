@@ -66,6 +66,17 @@
 | 23.02.26  | 데이터 정규화의 필요성(sklearn, 모형의 오분류)| [Naver Blog](https://blog.naver.com/mathnoah/223365548990)  | DAY02/03_find_fish_normalization.ipynb  |
 | 23.02.26  | 데이터 전처리 : StandardScalar, transform , sklearn.svm.SVC| [Naver Blog](https://blog.naver.com/mathnoah/223365678380)  | DAY02/04_fish_sklearn.ipynb  |
 | 23.02.26  |튜닝(Tunning) | [Naver Blog](https://blog.naver.com/mathnoah/223365773861)  | DAY02/05_fish_Tunning.ipynb  |
+| 23.02.27  | 회귀 분석(sklearn.metrics) : mean_squared_error, mean_absolute_error, r2_score
+ | [Naver Blog](https://blog.naver.com/mathnoah/223366718832)  | DAY03  |
+| 23.03.03  | sklearn 머신러닝 분석 총정리(기본)| [Naver Blog](https://blog.naver.com/mathnoah/223371692522)  | DAY04  |
+| 23.03.04  |  Scikit-learn 라이브러리, Sklearn, 거리측정법, 다운샘플링, 업샘플링, 정규화 종류
+| [Naver Blog](https://blog.naver.com/mathnoah/223372584445)  | DAY05  |
+| 23.03.04  | 데이터 변환 : 이산화, 범주화, 인코딩 / 특성공학, 회귀모델 성능평가지표, 업데이트 최적화 기법 | [Naver Blog](https://blog.naver.com/mathnoah/223372644891)  | DAY06  |
+| 23.03.04  | Logistic Regression(로지스틱 회귀), 시그모이드(sigmmid), 소프트맥스(softmax) | [Naver Blog](https://blog.naver.com/mathnoah/223372670356)  | DAY06  |
+| 23.03.05  | 경사하강법(Gradient Descent), SGDClassifier, partial_fit | [Naver Blog](https://blog.naver.com/mathnoah/223373496572)  | DAY07  |
+| 23.03.05  |  MNIST_database, 지도학습을 통한 분류 실습 | [Naver Blog](https://blog.naver.com/mathnoah/223373716117)  | DAY07  |
+| 23.03.05  | Ridge(L2), Lasso(L1) | [Naver Blog](https://blog.naver.com/mathnoah/223373795689)  | DAY07  |
+| 23.03.06  |  | [Naver Blog]()  | DAY08  |
 
 ### 목차
 
