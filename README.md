@@ -76,6 +76,8 @@
 | 23.03.05  | 경사하강법(Gradient Descent), SGDClassifier, partial_fit | [Naver Blog](https://blog.naver.com/mathnoah/223373496572)  | DAY07  |
 | 23.03.05  |  MNIST_database, 지도학습을 통한 분류 실습 | [Naver Blog](https://blog.naver.com/mathnoah/223373716117)  | DAY07  |
 | 23.03.05  | Ridge(L2), Lasso(L1) | [Naver Blog](https://blog.naver.com/mathnoah/223373795689)  | DAY07  |
+| 23.03.06  |  교차검증 : KFold(K-폴드), StratifiedKFold, cross_val_score, cross_val_predict, cross_validate| [Naver Blog](https://blog.naver.com/mathnoah/223374614841)  | DAY07  |
+| 23.03.06  | 모델 성능평가 자동화 : GridSearchCV, all_estimators | [Naver Blog](https://blog.naver.com/mathnoah/223374622306)  | DAY07  |
 | 23.03.06  |  | [Naver Blog]()  | DAY08  |
 
 ### 목차
