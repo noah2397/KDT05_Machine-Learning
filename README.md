@@ -76,8 +76,11 @@
 | 23.03.05  | Ridge(L2), Lasso(L1) | [Naver Blog](https://blog.naver.com/mathnoah/223373795689)  | DAY07  |
 | 23.03.06  |  교차검증 : KFold(K-폴드), StratifiedKFold, cross_val_score, cross_val_predict, cross_validate| [Naver Blog](https://blog.naver.com/mathnoah/223374614841)  | DAY07  |
 | 23.03.06  | 모델 성능평가 자동화 : GridSearchCV, all_estimators | [Naver Blog](https://blog.naver.com/mathnoah/223374622306)  | DAY07  |
-| 23.03.06  |  | [Naver Blog]()  | DAY08  |
-
+| 23.03.07  | DT(Decision Tree), Graphviz 설치, 의사결정나무 시각화, joblib, .pkl | [Naver Blog](https://blog.naver.com/mathnoah/223375883551)  | DAY08  |
+| 23.03.07  | 앙상블 | [Naver Blog](https://blog.naver.com/mathnoah/223376177162)  | DAY08  |
+| 23.03.11  | XGBoost | [Naver Blog](https://blog.naver.com/mathnoah/223379906987)  | DAY09  |
+| 23.03.11  | XGBoost( 사이킷런 래퍼, Scikit-learn Wrapper ) | [Naver Blog](https://blog.naver.com/mathnoah/223379910908)  | DAY09  |
+| 23.03.11  | LightGBM : 활용,  XGBoost와의 차이점  | [Naver Blog](https://blog.naver.com/mathnoah/223379928111)  | DAY09  |
 ### 목차
 
 <details>
